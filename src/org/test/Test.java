@@ -15,15 +15,6 @@ public class Test {
 		System.out.println(parseFloat);
 		
 		
-		
-		/*try {
-			int parseInt = Integer.parseInt(s);
-			System.out.println(parseInt);
-			
-		} catch (Exception e) {
-
-				
-		}*/
 	}
 	
 
